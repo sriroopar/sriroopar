@@ -35,7 +35,7 @@
 
 </div>
 
-## Libraries and Tech-stack, I'm familiar with!📎
+## Libraries, Tools and Tech-stack , I'm familiar with!📎
 
 <div align="center">
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>
