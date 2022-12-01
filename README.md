@@ -10,7 +10,7 @@
 ```python
  sri_roopa = {
   about me: ["Undergraduate Student"],
-  ardent about: ["Data Science","Machine Learning"]'
+  interests: ["Data Science","Machine Learning"]'
   languages: ["Python", "R", "HTML", "CSS","JS" "SQL"],
   libraries:["numpy","pandas","scikit-learn","seaborn","matplotlib","tensorflow","keras"],
   tools: ["Anaconda Navigator","Google Colab","PowerBI","IBM Cognos Analytics"], 
