@@ -12,7 +12,8 @@
   about me: ["Undergraduate Student"],
   interests: ["Data Science","Machine Learning"]'
   languages: ["Python", "R", "HTML", "CSS","JS" "SQL"],
-  libraries:["numpy","pandas","scikit-learn","seaborn","matplotlib","tensorflow","keras"],
+  libraries: ["numpy","pandas","scikit-learn","seaborn","matplotlib","tensorflow","keras"],
+  operating system: ["unix","windows"]
   tools: ["Anaconda Navigator","Google Colab","PowerBI","IBM Cognos Analytics"], 
   interests: ["Reading, Writing Blogs", "Teaching" , "Problem Solving"]
 }
