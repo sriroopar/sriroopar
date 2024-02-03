@@ -9,7 +9,7 @@
 
 ```python
  sri_roopa = {
-  about me: ["Undergraduate Student"],
+  about me: ["cs Grad '25 @ NCState"],
   interests: ["Data Science","Machine Learning"]'
   languages: ["Python", "R", "HTML", "CSS","JS" "SQL"],
   libraries: ["numpy","pandas","scikit-learn","seaborn","matplotlib","tensorflow","keras"],
