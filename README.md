@@ -9,7 +9,7 @@
 
 ```python
  sri_roopa = {
-  about me: ["cs Grad '25 @ NCState"],
+  about me: ["MCS'25 @ NCState"],
   interests: ["Data Science","Machine Learning"]'
   languages: ["Python", "R", "HTML", "CSS","JS" "SQL"],
   libraries: ["numpy","pandas","scikit-learn","seaborn","matplotlib","tensorflow","keras"],
@@ -49,8 +49,6 @@
 <a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="50px" height="50px"></a>
 <br>
 </div>
-
-
 
 
 ## Account Stats 📊
