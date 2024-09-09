@@ -5,7 +5,7 @@
 
 ## A little something about me 👇
 
-<p>I'm a grad student purusing Master's in CS at North Carolina State University. I am into data science and machine learning so I play around with related technologies. I am a night owl and I like  coffee :)</p>
+<p>I'm a Master's in CS student at North Carolina State University. I am into data science and machine learning so I play around with related technologies. I am a night owl and I like  coffee :)</p>
 
 ```python
  sri_roopa = {
