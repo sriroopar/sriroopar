@@ -51,14 +51,6 @@
 </div>
 
 
-## Account Stats 📊
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sriroopar&theme=dark&background=000000&align=center)](https://git.io/streak-stats)
-
-
-</div>
-
 
 
 
