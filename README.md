@@ -1,7 +1,11 @@
-<img align='right' src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" width="300" height="300">
+<img align='left' src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" width="300" height="300">
 
-
-## Little about me! :) 
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Little about me! :) </h1>
+    </summary>
+  </ul>
 
 <p>I'm a Software Engineer at RedHat contributing to the OpenShift Lightspeed project.</p>
 
