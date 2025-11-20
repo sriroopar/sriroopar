@@ -18,23 +18,6 @@
   interests: ["Reading, Writing Blogs", "Teaching" , "Problem Solving"]
 }
 ```
-## &nbsp;
-<div align="center">
- <b><p text-align="center">Number of Views:</p></b>
-</div>
-<div align="center">
-<img src="https://profile-counter.glitch.me/sriroopar/count.svg" />
-</div>
-
-
-## Tech-stack Stats 📈
-
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sriroopar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ## Libraries, Tools and Tech-stack , I'm familiar with!📎
 
