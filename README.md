@@ -1,21 +1,16 @@
-# "Hello, World!",I am Sri Roopa :)
-
 <img align='right' src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" width="300" height="300">
 
 
-## A little something about me 👇
+## Little about me! :) 
 
-<p>I'm a Master's in CS student at North Carolina State University. I am into data science and machine learning so I play around with related technologies. I am a night owl and I like  coffee :)</p>
+<p>I'm a Software Engineer at RedHat contributing to the OpenShift Lightspeed project.</p>
 
 ```python
  sri_roopa = {
-  about me: ["MCS'25 @ NCState"],
-  interests: ["Data Science","Machine Learning"]'
-  languages: ["Python", "R", "HTML", "CSS","JS" "SQL"],
-  libraries: ["numpy","pandas","scikit-learn","seaborn","matplotlib","tensorflow","keras"],
-  operating system: ["unix","windows"]
-  tools: ["Anaconda Navigator","Google Colab","PowerBI","IBM Cognos Analytics"], 
-  interests: ["Reading, Writing Blogs", "Teaching" , "Problem Solving"]
+  about me: ["SWE @ REDHAT", "MCS'25 @ NCState"],
+  interests: ["AI Infrastructure", "RAG", "Agentic AI", "Machine Learning"]'
+  stuff I work with : ["OpenShift", "Go", "Kubernetes", "SQL", "Python", "Pytests"]
+  interests: ["Reading" , "Writing Blogs", "Teaching" , "Problem Solving", "Coffee :)"]
 }
 ```
 
@@ -30,6 +25,15 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a>
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="50px" height="50px"></a>
 <a href="https://www.r-project.org/" title="R"><img src="https://github.com/get-icon/geticon/raw/master/icons/r-lang.svg" alt="R" width="50px" height="50px"></a>
+  <!-- Kubernetes -->
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" alt="Kubernetes" width="50px" height="50px">
+
+  <!-- SQL / Database -->
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="SQL" width="50px" height="50px">
+
+  <!-- TensorFlow -->
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/tensorflow.svg" alt="TensorFlow" width="50px" height="50px">
+
 <br>
 </div>
 
