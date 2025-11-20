@@ -1,4 +1,4 @@
-<img align='left' src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" width="300" height="300">
+<img align='left' src="https://user-images.githubusercontent.com/22479692/123986644-65364080-d9be-11eb-8f4f-857c21e774fb.gif" width="270" height="270">
 
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
