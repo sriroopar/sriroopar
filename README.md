@@ -11,7 +11,7 @@
 
 ```python
  sri_roopa = {
-  about me: ["SWE @ REDHAT", "MCS'25 @ NCState"],
+  about me: ["SWE @ RedHat", "MCS'25 @ NCState"],
   interests: ["AI Infrastructure", "RAG", "Agentic AI", "Machine Learning"]'
   stuff I work with : ["OpenShift", "Go", "Kubernetes", "SQL", "Python", "Pytests"]
   interests: ["Reading" , "Writing Blogs", "Teaching" , "Problem Solving", "Coffee :)"]
